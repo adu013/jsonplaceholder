@@ -1,4 +1,12 @@
 {
+  "books": [
+    { "id": 1, "title": "Inferno", "author": "Brown, Dan", "year": 2013},
+    { "id": 2, "title": "Angels and Demons", "author": "Brown, Dan", "year": 2000},
+    { "id": 3, "title": "The Da Vinci Code", "author": "Brown, Dan", "year": 2003},
+    { "id": 4, "title": "The Alchemist", "author": "Coelho, Paulo", "year": 1988},
+    { "id": 5, "title": "The Pilgrimage", "author": "Coelho, Paulo", "year": 1987},
+    { "id": 6, "title": "Eleven Minutes", "author": "Coelho, Paulo", "year": 2003}
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
